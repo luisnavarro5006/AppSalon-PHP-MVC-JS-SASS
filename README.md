@@ -10,7 +10,7 @@ Este proyecto se penso para realizarse con una base de datos MySQL, junto a PHP,
 
 Gulp es una herramienta desarrollada en JS bastante util a la hora de automatizar procesos de CSS, y SASS, esto ayudara a tener un mejor rendimiento en cuanto a nuestro proyecto ya que todos los procesos podran cargarse de mejor manera y sin tanto embrollo
 
-Tambien utice una extensiion del composer la cual es PHPMailer, esta extensión ayuda a conectar un servicio como en este caso es Mailtrap, para poder enviar correos en diferentes situaciónes como lo es, el enviar correos de cambios de contraseña o realizaciónes de citas, esto funciona junto a PHP, y es bastante util si se paga el servicio de correos, aunque de manera gratuita ya tiene algunas funciones bastante utiles, tambien otra opcion mas avanzada es utilizar el PHPMailer, para conectar con un servidor de correos, local como bien podria ser un debian con algun servicio.
+Tambien utice una extension del composer la cual es PHPMailer, esta extensión ayuda a conectar un servicio como en este caso es Mailtrap, para poder enviar correos en diferentes situaciónes como lo es, el enviar correos de cambios de contraseña o realizaciónes de citas, esto funciona junto a PHP, y es bastante util si se paga el servicio de correos, aunque de manera gratuita ya tiene algunas funciones bastante utiles, tambien otra opcion mas avanzada es utilizar el PHPMailer, para conectar con un servidor de correos, local como bien podria ser un debian con algun servicio.
 
 Tambien gracias a Gulp tiene un diseño totalmente responsive, el cual esta configurado para que pueda funcionar en cualquier dispositivo de manera correcta, ya sea una tablet, un monito extra grande o un smartphone 
 
