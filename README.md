@@ -12,6 +12,8 @@ Gulp es una herramienta desarrollada en JS bastante util a la hora de automatiza
 
 Tambien utice una extensiion del composer la cual es PHPMailer, esta extensión ayuda a conectar un servicio como en este caso es Mailtrap, para poder enviar correos en diferentes situaciónes como lo es, el enviar correos de cambios de contraseña o realizaciónes de citas, esto funciona junto a PHP, y es bastante util si se paga el servicio de correos, aunque de manera gratuita ya tiene algunas funciones bastante utiles, tambien otra opcion mas avanzada es utilizar el PHPMailer, para conectar con un servidor de correos, local como bien podria ser un debian con algun servicio.
 
+Tambien gracias a Gulp tiene un diseño totalmente responsive, el cual esta configurado para que pueda funcionar en cualquier dispositivo de manera correcta, ya sea una tablet, un monito extra grande o un smartphone 
+
 # Problemas Técnicos
 En todo caso hay un problema especifico con esto, lastimosamente a pesar de tener todo nuestro proyecto estructurado, al parecer por un error especifico de PHP o probablemente el Composer el proyecto de funcionar, pero este tambien puede servir en dado caso de querer utilizarse
 como apoyo para cualquier otro proyecto ya que muchas de las estructuras de SASS y CSS, estan ahi junto a diferentes funciones de JS y PHP, podria decirse que es un buen hueso que roer 
@@ -25,3 +27,13 @@ Es un proyecto sencillo pero a la vez complejo ya que tambien se utilizo el El M
 # Postdata
 Para quien no sepa mucho sobre el MVC o Modelo-Vista-Controlado aqui dejo una imagen explicando un poco del proceso con el que fue realizado este proyecto
 ![image](https://user-images.githubusercontent.com/111943639/205824835-2c6c6643-8531-4358-b130-fdf141c9f4e6.png)
+
+# Imagenes de como ser deberia de ver el proyecto
+![image](https://user-images.githubusercontent.com/111943639/205836925-953abb29-2ea2-4e21-83b4-58ff58e315e4.png)
+![image](https://user-images.githubusercontent.com/111943639/205837202-baf13ca6-50d7-4acf-9e34-5e37bc4b8fec.png)
+![image](https://user-images.githubusercontent.com/111943639/205837423-380df853-27e6-4996-b38b-de9755e2f649.png)
+![image](https://user-images.githubusercontent.com/111943639/205837624-7a137042-c013-4efa-bc6a-f4be05ca2c63.png)
+![image](https://user-images.githubusercontent.com/111943639/205837737-4b5f0029-2510-4382-acad-c6964813c91c.png)
+
+
+
